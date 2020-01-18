@@ -1,0 +1,49 @@
+[{
+        "code": "SCL",
+        "name": "Santiago",
+        "lat": -33.45694,
+        "long": -70.64827,
+        "temp": 0,
+        "updatedAt": 0
+    },
+    {
+        "code": "ZRH",
+        "name": "Zurich",
+        "lat": 47.36667,
+        "long": 8.55,
+        "temp": 0,
+        "updatedAt": 0
+    },
+    {
+        "code": "AKL",
+        "name": "Auckland",
+        "lat": -36.86667,
+        "long": 174.76667,
+        "temp": 0,
+        "updatedAt": 0
+    },
+    {
+        "code": "SYD",
+        "name": "Sydney",
+        "lat": -33.86785,
+        "long": 151.20732,
+        "temp": 0,
+        "updatedAt": 0
+    },
+    {
+        "code": "LON",
+        "name": "London",
+        "lat": 51.50853,
+        "long": -0.12574,
+        "temp": 0,
+        "updatedAt": 0
+    },
+    {
+        "code": "ATL",
+        "name": "Atlanta",
+        "lat": 33.749,
+        "long": -84.38798,
+        "temp": 0,
+        "updatedAt": 0
+    }
+]

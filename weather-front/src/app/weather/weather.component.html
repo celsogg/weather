@@ -1,1 +1,8 @@
-<p>weather works!</p>
+<p>Temperaturas</p>
+<table>
+    <tr *ngFor="let city of cities">
+        <td>{{city.name}}</td>
+        <td>{{city.temp}}°</td>
+        <td> hace {{city.secondsAgo}} segundos</td>
+    </tr>
+</table>
